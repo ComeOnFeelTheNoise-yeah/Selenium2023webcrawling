@@ -7,9 +7,8 @@
 
 
 
+(1) I have annotated any code that has been modified or newly added.
 
-1. I have annotated any code that has been modified or newly added.
+(2) I added a secret mode window because I thought I would need it for security in many ways.
 
-2. I added a secret mode window because I thought I would need it for security in many ways.
-
-3. The reason I didn't install the Chrome driver automatically is because of unnecessary work that continues to install when I run it again.
+(3) The reason I didn't install the Chrome driver automatically is because of unnecessary work that continues to install when I run it again.
